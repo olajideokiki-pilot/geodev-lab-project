@@ -39,3 +39,12 @@
 - **Columns:** full_id (text), osm_id (text), osm_type (text), sidewalk_r (text), footway (text), bus (text), train (text), highway (text), alt_name (text), admin_leve (text), source_dat (text), full_name_ (text), public_tra (text), name_en (text), name_zh (text), public_tra (text), official_n (text), passenger_ (text), is_in (text), passenger_
 - **Features:** 1,276
 - **Coverage notes:** Looks good and complete in the area
+
+
+
+## All source layers were delivered in EPSG:32631 (WGS 84 / UTM Zone 31N).
+
+- **Study area**: Ikeja LGA, extracted from the GRID3 LGA dataset.
+- All layers were clipped to the study area boundary and then reprojected to EPSG:32631 (UTM 31N).
+- **Area check**: post-reprojection, Ikeja LGA measures 40.82 km², against a cited reference figure of approximately 42.31 km².
+- Working files are stored in `data/processed/`; raw source files remain untouched.
