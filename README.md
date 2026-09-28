@@ -1,6 +1,6 @@
 # Security: Police Stations Accessibility in Ikeja LGA
 
-Which wards in Ikeja Local Government Area (LGA) are more than 3km from a police station?
+Which settlements in Ikeja LGA, Lagos State fall within 500m from a police station?
 
 Built over twelve months with GeoDev Lab Africa, Cohort One.
 
