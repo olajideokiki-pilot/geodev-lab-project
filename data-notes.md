@@ -20,6 +20,10 @@
 - **Geometry type:** Polygon (Multipolygon)
 - **Coverage notes:** Covers properly
 
+## GRID3 NGA Settlements (Lagos State)
+**Source:** https://data.grid3.org/datasets/GRID3::grid3-nga-settlement-extents-v4-1/about
+- **Date downloaded:** 28/09/2026
+
 ## GRID3 NGA Operational Wards (Ikeja)
 
 - **Source:** https://data.grid3.org/datasets/0824aded5f5a4d39b10871c667aa8ccf_0/explore?location=6.605815%2C3.392352%2C12
