@@ -15,3 +15,5 @@ See the full brief [project_brief](https://github.com/olajideokiki-pilot/geodev-
 | Ward Level Data | GRID3 NGA - Operational Wards |
 | Police Stations | GRID3 NGA - Police Stations |
 | Road Data | Extracted using QuickOSM plugin in QGIS software |
+
+![Study Area Map](https://github.com/olajideokiki-pilot/geodev-lab-project/blob/main/Processed/Ikeja%20LGA.png)
